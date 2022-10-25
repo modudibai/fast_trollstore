@@ -21,3 +21,5 @@ itms-services://?action=download-manifest&amp;url=https://cdn.jsdelivr.net/gh/mo
 ```
 itms-services://?action=download-manifest&amp;url=https://cdn.jsdelivr.net/gh/modudibai/fast_trollstore@main/plist/trollstore-ios15.plist
 ```
+
+其他后续的安装步骤参照官方or往上其他教程即可，不再赘述。
